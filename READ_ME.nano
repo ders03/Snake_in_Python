@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------Play.py quickref------------------------------------------------------------------------
+I chose to put the game mechanics in Play.py as much as possible for debugging.
+Game mechanics spread over multiple files is painful. 
+
+Lines 30 - 32 and Line 39 for Apple init
+Lines 45 - 80 for Apple relocation 
+Lines 91 - 129 for draw procedure 
+Lines 94 and 103 for criteria triggering 
+additional apple and walls 
+Lines 130 - 179 for apple collision detection
+Lines 180 - 185 for tail collision detection
+Lines 186 - 214 for wall collision detection
+Line 219 for game speed
+Line 231 for end game
